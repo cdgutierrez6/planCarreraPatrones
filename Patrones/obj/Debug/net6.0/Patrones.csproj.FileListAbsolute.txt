@@ -1,0 +1,30 @@
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\bin\Debug\net6.0\Patrones.exe
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\bin\Debug\net6.0\Patrones.deps.json
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\bin\Debug\net6.0\Patrones.runtimeconfig.json
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\bin\Debug\net6.0\Patrones.dll
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\bin\Debug\net6.0\Patrones.pdb
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.csproj.AssemblyReference.cache
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfoInputs.cache
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfo.cs
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.csproj.CoreCompileInputs.cache
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.dll
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\refint\Patrones.dll
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.pdb
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\Patrones.genruntimeconfig.cache
+C:\Users\daniel_gutierrez\source\repos\Patrones\Patrones\obj\Debug\net6.0\ref\Patrones.dll
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\bin\Debug\net6.0\Patrones.exe
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\bin\Debug\net6.0\Patrones.deps.json
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\bin\Debug\net6.0\Patrones.runtimeconfig.json
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\bin\Debug\net6.0\Patrones.dll
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\bin\Debug\net6.0\Patrones.pdb
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.csproj.AssemblyReference.cache
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfoInputs.cache
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfo.cs
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.csproj.CoreCompileInputs.cache
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.dll
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\refint\Patrones.dll
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.pdb
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\Patrones.genruntimeconfig.cache
+C:\Users\daniel_gutierrez\OneDrive - SATRACK\Documentos\Estudios Plan Carrera\planCarreraPatrones.git\Patrones\obj\Debug\net6.0\ref\Patrones.dll
