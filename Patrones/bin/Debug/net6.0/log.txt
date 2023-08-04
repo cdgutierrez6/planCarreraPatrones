@@ -1,0 +1,3 @@
+3/08/2023 11:47:03 p. m.: Inicio del programa
+3/08/2023 11:47:03 p. m.: Algunos mensajes de prueba
+3/08/2023 11:47:03 p. m.: Finalización del programa
