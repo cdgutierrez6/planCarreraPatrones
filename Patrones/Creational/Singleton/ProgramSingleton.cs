@@ -13,7 +13,7 @@ namespace Patrones.Creational.Singleton
             Console.WriteLine("Uso del Singleton Logger");
 
             // Obtenemos la instancia única del Logger
-            Logger logger = Logger.Instance;
+            Logger logger = Logger.GetInstance();
 
             // Registramos algunos mensajes
             logger.LogMessage("Inicio del programa");
